@@ -1,0 +1,1 @@
+Une application où tu pourras créer des événements avec une date de début, une durée, et un nom. Tu pourras leur rattacher un lieu, des utilisateurs (qui y assisteront), et on affichera la liste totale des rendez-vous.
